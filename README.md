@@ -4,9 +4,7 @@ ScreenShots
 
 1.GetStartedPage
 
-![started](started.PNG)
-
-2.HomePage
+![started](started.PNG)2.HomePage
 
 ![home](home.PNG)
 
